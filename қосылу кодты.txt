@@ -1,0 +1,3 @@
+pip install groq
+
+python "C:\Новая папка (3)\bot.py"
